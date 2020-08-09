@@ -16,7 +16,7 @@
 export default {
   name: "vue-social-sharing",
   props: {
-    fixed: { type: Boolean, default: true },
+    fixed: { type: Boolean, default: false },
     background: { type: String, default: "#ffc107" },
     block: { type: Boolean, default: false },
     animated: { type: Boolean, default: false },
