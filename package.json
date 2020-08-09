@@ -1,6 +1,14 @@
 {
   "name": "vue-social-sharing",
   "author": "Julien JEAN",
+  "license": "CC3-BY-SA",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padcmoi/vue-social-sharing.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@padcmoi"
+  },
   "version": "1.0.0",
   "private": false,
   "scripts": {
